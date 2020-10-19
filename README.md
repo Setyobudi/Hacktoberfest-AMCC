@@ -16,5 +16,5 @@ Pertama, daftar di situs Hacktoberfest di https://hacktoberfest.digitalocean.com
 Terhubung dengan peserta Hacktoberfest lainnya dengan menggunakan @DigitalOcean, @hacktoberfest, #hacktoberfest di platform media sosial.
 Baru menggunakan DigitalOcean? hadiah USD $100 dalam kredit infrastruktur di https://do.co/hacktoberfest100.
 
-## Join Grup Telegrap 
+## Join Grup Telegram 
 https://t.me/hacktoberfest2k20
